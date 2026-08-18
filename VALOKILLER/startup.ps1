@@ -1,0 +1,1 @@
+powershell -WindowStyle Hidden -ExecutionPolicy Bypass -File VALOKILLER.ps1
